@@ -3,9 +3,9 @@ Practica de flujo de trabajo colaborativo aplicando un Pull Request hacia una ra
 
 ## Jesus Guzman
 
-## Introducción
+## Descripcion
 
-En este repositorio se encuentra el código de ejemplo para la práctica de ramas protegidas. 
+En este repositorio se encuentra el código de ejemplo para la práctica de ramas protegidas en GitHub.
 
 ## Objetivos
 
