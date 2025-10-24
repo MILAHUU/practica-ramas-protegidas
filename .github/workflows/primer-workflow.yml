@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      -name: Hola desde GitHub Actions
-        run: echo "Hola desde GitHub Actions"
+      - name: Nola desde GitHub Actions
+        run: echo "Nola desde GitHub Actions"
